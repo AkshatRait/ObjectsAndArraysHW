@@ -188,8 +188,7 @@ for(i = 0; i < movie.actors.length; i++){
 }
 console.log(movie.isGoodMovie);
 
-//2nd problem
-
+//2nd 
 let cohortFour = {
     classSize: 5,
     instructor: {
